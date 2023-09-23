@@ -1,0 +1,5 @@
+pip install tkinter
+pip install cv2
+pip install pandas
+pip install ultralytics
+pip install numpy
